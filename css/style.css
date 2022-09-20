@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&display=swap');
+/* ----Reset -------------------------------------------------------------------------------*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .btn-orange{
+    background-color: #f57647;
+    color: white;
+  }
+
+  .btn-orange:hover {
+    background-color: #f34709; 
+    color: white;
+    border-color: #f34709;
+  }
+
+  
+
+  .fuente{
+    font-family: 'Oswald', sans-serif;
+  }
+
+  .carousel{
+    height: 100px;
+    width: 100px;
+  }
